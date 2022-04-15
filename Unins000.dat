@@ -1,0 +1,165 @@
+[0114/224847.063:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[0114/224847.081:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[0114/224847.082:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[0114/224847.082:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value utility
+[0120/153218.472:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[0205/181024.747:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[0207/124934.210:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[0218/005055.462:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[0321/201334.952:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[0321/201335.055:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[0321/201335.055:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[0321/201335.055:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value browser
+[0406/105724.417:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[0407/210500.647:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[0407/210500.759:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[0407/210500.759:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[0407/210500.759:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value renderer
+[0410/165846.838:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[0410/165847.029:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[0410/165847.029:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[0410/165847.029:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value browser
+[0418/012028.061:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[0418/084422.284:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[0424/145015.507:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[0424/203419.727:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[0429/165310.083:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[0501/001903.195:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[0501/001903.252:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[0501/001903.252:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[0501/001903.252:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value browser
+[0501/205704.173:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[0501/222225.954:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[0501/222225.955:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[0501/222225.955:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[0501/222225.955:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value browser
+[0512/084609.676:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[0524/204801.053:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[0524/204801.129:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[0524/204801.129:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[0524/204801.129:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value browser
+[0621/221634.679:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[0621/221634.816:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[0621/221634.816:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[0621/221634.816:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value browser
+[0708/182930.282:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[0708/182930.308:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[0708/182930.308:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[0708/182930.308:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value browser
+[0710/180438.662:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[0710/180438.685:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[0710/180438.685:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[0710/180438.685:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value browser
+[0710/184815.696:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[0710/184815.696:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[0710/184815.696:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[0710/184815.696:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value browser
+[0803/095432.274:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[0803/095432.342:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[0803/095432.342:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[0803/095432.342:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value browser
+[0803/095447.006:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[0803/095447.006:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[0803/095447.006:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[0803/095447.006:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value browser
+[0803/095506.661:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[0803/095506.662:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[0803/095506.662:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[0803/095506.662:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value browser
+[0810/125133.003:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[0812/220127.824:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[0812/220127.866:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[0812/220127.866:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[0812/220127.866:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value renderer
+[0911/202713.204:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[0911/202713.239:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[0911/202713.239:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[0911/202713.239:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value browser
+[1101/163520.853:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[1117/114613.192:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[1123/102745.372:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[1215/002729.580:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[0102/191756.589:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[0102/191756.702:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[0102/191756.702:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[0102/191756.702:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value browser
+[0102/191822.045:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[0102/191822.045:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[0102/191822.045:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[0102/191822.045:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value browser
+[0106/082600.038:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[0106/082600.110:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[0106/082600.110:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[0106/082600.110:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value browser
+[0106/082616.933:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[0106/082616.933:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[0106/082616.933:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[0106/082616.933:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value browser
+[0108/221403.463:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[0108/221403.640:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[0108/221403.641:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[0108/221403.641:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value browser
+[0108/221437.592:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[0108/221437.593:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[0108/221437.593:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[0108/221437.593:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value browser
+[0109/152203.057:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[0110/103005.944:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[0116/151525.598:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[0201/212916.464:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[0218/185223.103:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[0220/193938.227:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[0223/165317.726:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[0225/192114.651:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[0329/092240.008:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[0329/092240.104:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[0329/092240.104:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[0329/092240.104:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value browser
+[0613/134204.188:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[0615/193334.931:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[0629/223520.223:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[0705/180853.342:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[0719/092920.471:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[1022/201626.881:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[1108/145846.432:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[1110/185706.925:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[1118/131543.661:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[1119/203256.730:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[1120/135137.743:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[1123/170235.758:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[1123/170235.845:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[1123/170235.846:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[1123/170235.846:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value browser
+[1124/165825.016:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[1127/200504.610:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[1128/094601.793:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[1201/162106.328:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[1202/163845.010:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[1204/152855.355:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[1209/162554.325:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[1218/220213.689:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[1222/164705.715:ERROR:settings.cc(348)] Settings magic is not 1129342067
+[0116/174818.826:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[0116/174818.888:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[0116/174818.888:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[0116/174818.888:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value browser
+[0116/175106.388:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[0116/175106.389:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[0116/175106.389:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[0116/175106.389:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value browser
+[0116/175213.057:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[0116/175213.057:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[0116/175213.057:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[0116/175213.057:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value browser
+[0116/175313.265:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[0116/175313.266:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[0116/175313.266:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[0116/175313.266:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value browser
+[0116/175438.898:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[0116/175438.899:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[0116/175438.899:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[0116/175438.899:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value browser
+[0116/175629.859:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktopGX
+[0116/175629.859:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 64.0.3417.150
+[0116/175629.859:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value Stable
+[0116/175629.859:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value browser
